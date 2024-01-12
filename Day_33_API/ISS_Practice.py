@@ -6,3 +6,4 @@ longitude = data['longitude']
 latitude = data['latitude']
 iss_position= (longitude, latitude)
 print(iss_position)
+print(longitude)
